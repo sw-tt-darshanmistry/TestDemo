@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
     Log.e(TAG, "onCreate: -----------QA line");
     Log.e(TAG, "onCreate: -----------QA phase 1 tag created");
     Log.e(TAG, "onCreate: -----------not include in tag");
+
+    Log.e(TAG, "onCreate: -----------QA phase 1 tag added");
   }
 }
