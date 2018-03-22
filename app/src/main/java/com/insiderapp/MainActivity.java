@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
     Log.e(TAG, "onCreate: -----------first line");
+    Log.e(TAG, "onCreate: -----------QA line");
   }
 }
